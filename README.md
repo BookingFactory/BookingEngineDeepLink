@@ -54,3 +54,5 @@ room | Valid Room Type Short Name from TheBookingFactory Hotel Settings
 count | Positive integer greater than 0
 rate | Valid Rate Category ID from TheBookingFactory Hotel Settings, Positive integer grater than 0
 referer | Any string to represent partner
+currency | Use one of presented currencies, like USD, EUR, THB etc.
+lng | Use one of presented languages, line es, en, ru, etc
